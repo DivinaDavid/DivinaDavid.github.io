@@ -26,6 +26,6 @@ The projects included provide examples of cloud architecture design, automated d
 
 **GitHub:** https://github.com/DivinaDavid
 
-**LinkedIn:** https://www.linkedin.com/in/divina-keerthi-anisha-david-2ab36598/
+**LinkedIn:** https://www.linkedin.com/in/divinadavid/
 
 **Email:** [divinakadavid@gmail.com](mailto:divinakadavid@gmail.com)
