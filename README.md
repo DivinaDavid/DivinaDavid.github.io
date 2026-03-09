@@ -1,24 +1,31 @@
 ## 🧑‍💻 Divina David – Cloud & DevOps Profile Page
 
-This repository showcases my practical work in **cloud infrastructure engineering and DevOps automation**.
+🌐 **Live Portfolio:** https://divinadavid.github.io
 
-It includes projects demonstrating the design, deployment, and management of cloud-based systems using modern DevOps tools and practices. The goal of this portfolio is to illustrate how infrastructure automation, containerization, and CI/CD pipelines can be used to build **reliable, scalable, and efficient cloud environments**.
+This repository contains the source code for my **Cloud & DevOps portfolio website**, showcasing practical work in cloud infrastructure engineering and DevOps automation.
 
-The projects provide examples of cloud architecture design, automated deployments, and operational monitoring in real-world scenarios.
+The portfolio highlights projects that demonstrate the design, deployment, and management of cloud-based systems using modern DevOps tools and practices. The goal of this repository is to illustrate how infrastructure automation, containerization, and CI/CD pipelines can be used to build **reliable, scalable, and efficient cloud environments**.
 
-📁 Project Structure
-index.html	Main portfolio webpage
-style.css	Custom styling, layout, and color theme
-script.js	UI enhancements such as fade-in animations
-photo.jpg	Profile picture for the page
-README.md	Documentation for setup and deployment
+The projects included provide examples of cloud architecture design, automated deployments, and operational monitoring in real-world scenarios.
 
+---
 
+## 📁 Project Structure
 
-## Connect With Me
+| File         | Description                              |
+| ------------ | ---------------------------------------- |
+| `index.html` | Main portfolio webpage                   |
+| `style.css`  | Custom styling, layout, and color theme  |
+| `script.js`  | UI enhancements including animations     |
+| `photo.jpg`  | Profile image displayed on the portfolio |
+| `README.md`  | Repository documentation                 |
 
-GitHub: github.com/DivinaDavid
+---
 
-LinkedIn: linkedin.com/in/divina-david
+## 🔗 Connect With Me
 
-Email: divinakadavid@gmail.com
+**GitHub:** https://github.com/DivinaDavid
+
+**LinkedIn:** https://www.linkedin.com/in/divina-keerthi-anisha-david-2ab36598/
+
+**Email:** [divinakadavid@gmail.com](mailto:divinakadavid@gmail.com)
